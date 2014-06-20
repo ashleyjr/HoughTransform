@@ -1,0 +1,8 @@
+RTL/CameraHandler/CameraHandler.v
+RTL/HoughTransform/HoughTransform.v
+RTL/Mixer/Mixer.v
+RTL/PreProcessing/PreProcessing.v
+   RTL/PreProcessing/ImgRot.v
+RTL/VgaHandler/VgaHandler.v
+RTL/HT.v
+Verification/Simulation/TB.v
